@@ -1,5 +1,4 @@
-# GMNMT
-Source code for "A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation"
+codes for "A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation"(ACL2020)
 
 ## Requirements
 
